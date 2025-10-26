@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
@@ -20,5 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0890-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
