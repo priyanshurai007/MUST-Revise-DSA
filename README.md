@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0057-insert-interval) |
 | [0228-summary-ranges](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0228-summary-ranges) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0890-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
