@@ -39,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
