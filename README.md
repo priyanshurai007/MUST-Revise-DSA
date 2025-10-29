@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0056-merge-intervals) |
@@ -34,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -63,6 +66,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
