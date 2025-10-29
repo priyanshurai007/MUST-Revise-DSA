@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0228-summary-ranges) |
+| [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
 | [0890-lemonade-change](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0890-lemonade-change) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## String
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0146-lru-cache) |
+| [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
