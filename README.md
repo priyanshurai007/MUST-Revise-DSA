@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0503-next-greater-element-ii) |
 | [0890-lemonade-change](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0890-lemonade-change) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
