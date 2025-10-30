@@ -5,7 +5,7 @@ public:
         unordered_set<int> st(nums.begin(), nums.end());
         int maxLen=0;
 
-        for(auto num:nums){
+        for(auto num:st){
             if(st.count(num-1)) continue;
             int cur=0;
             while(st.count(num)){
