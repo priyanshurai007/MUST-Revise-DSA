@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0735-asteroid-collision) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
