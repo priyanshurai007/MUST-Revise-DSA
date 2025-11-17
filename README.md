@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0620-not-boring-movies](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0620-not-boring-movies) |
 | [1268-market-analysis-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/1268-market-analysis-i) |
 | [1625-group-sold-products-by-the-date](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
