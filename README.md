@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0678-valid-parenthesis-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Sorting
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
