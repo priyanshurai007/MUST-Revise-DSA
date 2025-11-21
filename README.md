@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0135-candy) |
+| [0217-contains-duplicate](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0503-next-greater-element-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/priyanshurai007/MUST-Revise-DSA/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
