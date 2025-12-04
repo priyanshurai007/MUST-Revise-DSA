@@ -8,20 +8,18 @@ public:
         int right=0;
         int minJump=0;
 
-        while(right<n){
-            //find the range of the next window
-            for(int i=left; i<=right; i++){
-                farthest=max(farthest, i+nums[i]);
+        for(int i=0; i<n; i++){
+            for(int k=left; k<=right; k++){
+                farthest=max(farthest,k+nums[k]);
             }
-            //need minJump+1 to go that window.
+
             minJump++;
-            //next window contain the last index no need to iterate further simply return minJump;
+
             if(farthest>=n-1) return minJump;
-            //maintain the next window.
-            left=right+1;
+
+            left=right++;
             right=farthest;
         }
-
-        return -1;
+        return minJump;
     }
 };
